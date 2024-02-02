@@ -1,3 +1,3 @@
 <?php
-$LOGIN = 'gho33tyvk@gmail.com';
-$PASSWORD = 'bgfm rkbj epni zrzn';
+$LOGIN = 'твоя почта';
+$PASSWORD = 'ключи приложения';
